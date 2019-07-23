@@ -1,0 +1,1 @@
+include ':app', ':googlemap', ':map', ':permissions', ':navigationdrawer', ':navigationdrawer2'
